@@ -656,11 +656,4 @@ async def cauldron_of_blood(ctx):
     await ctx.send(f87.read())
     f87.close()
 
-#f = open("disciplines/scorpions_touch.txt", encoding="utf8")
-
-#@bot.command()
-#async def test(ctx):
-    #await ctx.send(f.read())
-    #f.close()
-
 bot.run('private discord code goes here')
