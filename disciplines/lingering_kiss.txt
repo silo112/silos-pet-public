@@ -1,0 +1,9 @@
+__**Lingering Kiss**__
+
+The Kiss of a vampire induces near-ecstasy in mortals, but this power leaves other Kisses in the dust. Victims fed upon by the user become addicted to the Kiss, obsessing over it and even seeking the vampire out for repeated feedings. Mortals often become anemic, self-harm, or even die from this addiction, but vampires find it a useful power for cultivating a herd and empowering their favored associates. Addicting other vampires is also possible, with the caveat that obsessed vampires demanding to be fed from quickly lead to the user becoming Blood Bound.
+
+**■ Cost:** Free 
+
+**■ System:** The vampire can choose to use this power or not during each feeding. The victim gains a bonus equal to half the user’s Presence (round up) to one category of dice pools (Physical, Social, or Mental) chosen by the user. This benefit lasts for a number of nights equal to the user’s Presence and is renewed to full duration if used again during the period. Once the benefit fades, withdrawal strikes and all actions not spent working toward acquiring a new fix receive a penalty equal to the initial bonus, including trying to resist whatever the user asks of the addict. A victim fed upon with this power can make a Willpower test (Difficulty equals the user’s Presence) every week to resist the effects.
+
+**■ Duration:** Until successfully resisted.

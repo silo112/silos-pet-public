@@ -1,0 +1,9 @@
+__**Resilience**__
+
+Endowed with supernatural endurance, the user can strengthen their physical resolve.
+
+**■ Cost:** Free
+
+**■ System:** The user adds their Fortitude rating to their Health track.
+
+**■ Duration:** Passive

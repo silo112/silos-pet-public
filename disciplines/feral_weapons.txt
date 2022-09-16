@@ -1,0 +1,9 @@
+__**Feral Weapons**__
+
+The vampire can extend their natural weapons to monstrous proportions. This usually takes the form of fingernails extending into wicked talons but can also come in other forms such as fangs elongating into veritable daggers, as from a gigantic serpent.
+
+**■ Cost:** One Rouse Check
+
+**■ System:** No skill roll is needed to activate this power. When activated, the vampire’s natural weapon of choice becomes a light piercing Brawl weapon with a +2 modifier to damage. Vampiric Bite Attacks still only deal two points of Aggravated damage despite the number of successes, but do not suffer the called shot penalty. Superficial damage inflicted by the user’s natural weapons is not halved while Feral Weapons is active.
+
+**■ Duration:** One scene
